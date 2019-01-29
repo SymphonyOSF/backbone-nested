@@ -1,5 +1,5 @@
 {
-  "name": "backbone-nested-danbrianwhite",
+  "name": "symphony-backbone-nested",
   "version": "2.0.5",
   "description": "A plugin to make Backbone.js keep track of nested attributes.",
   "scripts": {
@@ -20,11 +20,10 @@
     "grunt-cli": "*",
     "bower": "*"
   },
-  "homepage": "http://danbrianwhite.github.com/backbone-nested/",
   "main": "backbone-nested.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danbrianwhite/backbone-nested.git"
+    "url": "https://github.com/SymphonyOSF/backbone-nested.git"
   },
-  "github": "https://github.com/danbrianwhite/backbone-nested"
+  "github": "https://github.com/SymphonyOSF/backbone-nested"
 }
